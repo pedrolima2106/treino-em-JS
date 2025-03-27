@@ -14,7 +14,7 @@ function alerta(){
 function cidades(){
     let cidade = prompt('Digite o nome de uma cidade do Brasil');
     alert(`Estive em ${cidade} e lembrei de você`);
-}
+} 
 
 function calculo(){
     let numero1 = parseInt(prompt("Digite um numero:"));
